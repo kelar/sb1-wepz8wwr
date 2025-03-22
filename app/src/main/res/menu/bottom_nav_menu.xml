@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_registrer"
+        android:icon="@drawable/ic_add_box"
+        android:title="@string/registrer_forbruk" />
+    <item
+        android:id="@+id/navigation_massetyper"
+        android:icon="@drawable/ic_list"
+        android:title="@string/massetyper" />
+    <item
+        android:id="@+id/navigation_prosjekter"
+        android:icon="@drawable/ic_work"
+        android:title="@string/prosjekter" />
+    <item
+        android:id="@+id/navigation_rapport"
+        android:icon="@drawable/ic_assessment"
+        android:title="@string/rapport" />
+</menu>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_registrer">
+
+    <fragment
+        android:id="@+id/navigation_registrer"
+        android:name="com.massetracker.ui.RegistrerForbrukFragment"
+        android:label="@string/registrer_forbruk" />
+
+    <fragment
+        android:id="@+id/navigation_massetyper"
+        android:name="com.massetracker.ui.MassetyperFragment"
+        android:label="@string/massetyper" />
+
+    <fragment
+        android:id="@+id/navigation_prosjekter"
+        android:name="com.massetracker.ui.ProsjekterFragment"
+        android:label="@string/prosjekter" />
+
+    <fragment
+        android:id="@+id/navigation_rapport"
+        android:name="com.massetracker.ui.RapportFragment"
+        android:label="@string/rapport" />
+
+</navigation>

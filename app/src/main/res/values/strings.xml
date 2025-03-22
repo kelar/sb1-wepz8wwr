@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Masse Tracker</string>
+    <string name="registrer_forbruk">Registrer Forbruk</string>
+    <string name="massetyper">Massetyper</string>
+    <string name="prosjekter">Prosjekter</string>
+    <string name="rapport">Rapport</string>
+    <string name="legg_til">Legg til</string>
+    <string name="avbryt">Avbryt</string>
+    <string name="lagre">Lagre</string>
+</resources>
